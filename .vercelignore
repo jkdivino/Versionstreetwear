@@ -1,0 +1,14 @@
+# Original PNGs — site uses WebP (saves ~430MB)
+Products/*.png
+brand.png
+Logo icon.png
+main logo 2.png
+assets/brand/*.png
+
+# Duplicate JPG product copies — site uses WebP
+Products/*.jpg
+assets/brand/brand.jpg
+assets/brand/logo-icon.jpg
+
+# Local dev tools only
+scripts/
